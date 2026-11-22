@@ -17,3 +17,5 @@ Open `index.html` in a modern browser. No build tools or dependencies are requir
 
 ## Notes
 This is a frontend portfolio demonstration. The sample editorial stories are illustrative and are not live news reporting. The newsletter form does not send data to a server. Images and Google Fonts load from external services, so an internet connection is needed for the full visual experience.
+
+- Opinion section with three sample columns that can be opened and saved like the other stories, followed by the Editor's Note.
